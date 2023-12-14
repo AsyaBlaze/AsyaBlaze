@@ -1,4 +1,13 @@
-### Hi there 👋
+My name is Nastya. Welcome to my Git!👋
+-
+<b>About me:</b>
+
+19 years old programmer from Perm
+
+I learn Java at [Job4j](https://job4j.ru/):coffee:, [JavaRush](https://javarush.com):computer: 
+
+Learned Spring at [Spring - Full cours. Bootm Hibernate, Security, REST](https://swiftbook.org/courses/438/show_promo/):leaves:
+
 
 <!--
 **AsyaBlaze/AsyaBlaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
